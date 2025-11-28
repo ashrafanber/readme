@@ -7,11 +7,13 @@
 I enjoy building modern, fast and visually appealing websites — focusing on simplicity, usability and performance.  
 Always exploring and learning new tools to level-up my development workflow.
 
+Build responsive UI with **TailwindCSS, Bootstrap, DaisyUI, Material‑Tailwind, React‑Bootstrap, MUI**
+
 ---
 
 ### 🚀 What I Do
 - Develop dynamic web interfaces with **JavaScript + React**
-- Build responsive UI with **TailwindCSS, Bootstrap & DaisyUI**
+- Build responsive UI with **TailwindCSS, Bootstrap, DaisyUI, Material‑Tailwind, React‑Bootstrap, MUI**
 - Work with backend fundamentals using **Node.js**
 - Learn continuously and improve problem-solving every day
 
@@ -20,11 +22,13 @@ Always exploring and learning new tools to level-up my development workflow.
 ### 🛠 Technologies & Tools
 
 | Frontend | Backend | UI Tools |
-|--------|--------|---------|
+|----------|---------|----------|
 | ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat&logo=javascript) | ![Node.js](https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=node.js&logoColor=white) | ![Tailwind](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white) |
 | ![HTML5](https://img.shields.io/badge/-HTML5-000?style=flat&logo=html5) |  | ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563d7c?style=flat&logo=bootstrap&logoColor=white) |
 | ![CSS](https://img.shields.io/badge/-CSS-000?style=flat&logo=css3) |  | ![DaisyUI](https://img.shields.io/badge/-DaisyUI-5A0EF8?style=flat&logo=daisyui&logoColor=white) |
-| ![React](https://img.shields.io/badge/-React-000?style=flat&logo=react) |  |  |
+| ![React](https://img.shields.io/badge/-React-000?style=flat&logo=react) |  | ![Material-Tailwind](https://img.shields.io/badge/-Material%20Tailwind-4BC0C0?style=flat&logo=tailwind-css&logoColor=white) |
+|  |  | ![MUI](https://img.shields.io/badge/-MUI-0081CB?style=flat&logo=mui&logoColor=white) |
+|  |  | ![React Bootstrap](https://img.shields.io/badge/-React%20Bootstrap-563d7c?style=flat&logo=react&logoColor=white) |
 
 ---
 
@@ -46,4 +50,3 @@ Always exploring and learning new tools to level-up my development workflow.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashrafwa13&layout=compact&theme=dark)
 
 <img src="https://komarev.com/ghpvc/?username=Ashrafwa13&style=for-the-badge&color=blue">
-
