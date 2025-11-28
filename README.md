@@ -25,11 +25,22 @@ I'm a software developer with a strong passion for creating visually appealing a
 </p>
 
 ### 🛠 &nbsp;Technologies that I work with
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563d7c?style=flat&logo=bootstrap&logoColor=white)
+
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)  
+![CSS](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)  
+![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat&logo=tailwind-css&logoColor=white)  
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563d7c?style=flat&logo=bootstrap&logoColor=white)  
+![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)  
+![Node.js](https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=node.js&logoColor=white)  
+![DaisyUI](https://img.shields.io/badge/-DaisyUI-5A0EF8?style=flat&logo=daisyui&logoColor=white) 
+### 🔗 Social Links & Freelance Profiles
+
+- 🌐 **Mostaql:** https://mostaql.com/u/Ashraf1_1222a  
+- 💼 **Khamsat:** https://khamsat.com/user/ashraf1_1222a  
+- 🧑‍💻 **ElHarefa:** https://elharefa.com/en/freelancers/p/ashrafwael22  
+- 🔗 **LinkedIn:** https://www.linkedin.com/in/ashraf-wael-1b42242bb  
+- 📸 **Instagram:** https://www.instagram.com/ashraf_anbar11/  
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedelkashef15&hide_progress=true) -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashrafwa13&layout=compact)
