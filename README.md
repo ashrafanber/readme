@@ -43,10 +43,4 @@ Build responsive UI with **TailwindCSS, Bootstrap, DaisyUI, Material‑Tailwind,
 | 📷 Instagram | https://www.instagram.com/ashraf_anbar11/ |
 | 🟦 Facebook | https://www.facebook.com/profile.php?id=100005545426004 |
 
----
 
-### 📊 GitHub Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashrafwa13&layout=compact&theme=dark)
-
-<img src="https://komarev.com/ghpvc/?username=Ashrafwa13&style=for-the-badge&color=blue">
